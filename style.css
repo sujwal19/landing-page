@@ -164,4 +164,14 @@ html , body{
     font-size: 18px;
 }
 
+.footerSection{
+    padding: 25px 0 25px 0;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
+
+.footerSection p{
+    text-align: center;
+}
+
 
