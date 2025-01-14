@@ -130,4 +130,38 @@ html , body{
     text-align: right;
 }
 
+.ctaSection{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    width: 100%;
+    position: relative;
+}
+
+.cta-content{
+    padding: 50px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+}
+
+.cta-left{
+    width: 80%;
+}
+
+.cta-right{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-right button{
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 3px solid #f9faf8;
+    border-radius: 10px;
+    padding: 14px 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
 
